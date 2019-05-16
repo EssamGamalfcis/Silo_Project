@@ -1,0 +1,14 @@
+database connection
+//home
+sa
+essam2014
+
+Scaffold-DbContext "Data Source=DESKTOP-7JA2CQ1\ESSAM;Initial Catalog=Silo_Project;Persist Security Info=True;User ID=sa;pwd=essam2014;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force -v
+
+//company
+sa_company
+Essam2016
+
+Scaffold-DbContext "Data Source=DESKTOP-7JA2CQ1\ESSAM;Initial Catalog=Silo_Project;Persist Security Info=True;User ID=sa;pwd=essam2014;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force -v
+
+
