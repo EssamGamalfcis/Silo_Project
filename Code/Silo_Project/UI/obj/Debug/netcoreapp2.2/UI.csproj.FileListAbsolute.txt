@@ -1,0 +1,28 @@
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.deps.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.runtimeconfig.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.runtimeconfig.dev.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.RazorAssemblyInfo.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.RazorAssemblyInfo.cs
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.AssemblyInfoInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.AssemblyInfo.cs
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.RazorTargetAssemblyInfo.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.deps.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.runtimeconfig.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.runtimeconfig.dev.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\bin\Debug\netcoreapp2.2\UI.pdb
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.RazorAssemblyInfo.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.RazorAssemblyInfo.cs
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.AssemblyInfoInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.AssemblyInfo.cs
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.RazorTargetAssemblyInfo.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\UI\obj\Debug\netcoreapp2.2\UI.pdb

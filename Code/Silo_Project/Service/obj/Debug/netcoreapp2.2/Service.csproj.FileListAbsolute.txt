@@ -1,0 +1,18 @@
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Service\obj\Debug\netcoreapp2.2\Service.pdb

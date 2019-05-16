@@ -1,0 +1,18 @@
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Repository\obj\Debug\netcoreapp2.2\Repository.pdb

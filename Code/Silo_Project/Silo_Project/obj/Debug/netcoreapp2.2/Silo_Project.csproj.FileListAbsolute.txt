@@ -1,0 +1,14 @@
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\bin\Debug\netcoreapp2.2\Silo_Project.deps.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\bin\Debug\netcoreapp2.2\Silo_Project.runtimeconfig.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\bin\Debug\netcoreapp2.2\Silo_Project.runtimeconfig.dev.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\bin\Debug\netcoreapp2.2\Silo_Project.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\bin\Debug\netcoreapp2.2\Silo_Project.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.csprojAssemblyReference.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.RazorAssemblyInfo.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.RazorAssemblyInfo.cs
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.AssemblyInfoInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.AssemblyInfo.cs
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.RazorTargetAssemblyInfo.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Silo_Project\obj\Debug\netcoreapp2.2\Silo_Project.pdb

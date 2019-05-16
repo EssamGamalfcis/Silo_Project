@@ -1,0 +1,22 @@
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+C:\Users\essgamal\Documents\Visual Studio 2017\Projects\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\essgamal\Desktop\Silo_Project\Code\Silo_Project\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
